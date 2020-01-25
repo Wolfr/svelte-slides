@@ -12,3 +12,31 @@ Here are some of his notes:
 
 > You can move forward by pressing the right arrow key, you can't step backwards through the animations but you can navigate back in the borwser to go to a previous 'screen'.
 
+## Running the project
+
+Install the dependencies...
+
+```bash
+npm install
+```
+
+...then start [Rollup](https://rollupjs.org):
+
+```bash
+npm run dev
+```
+
+Navigate to [localhost:5000](http://localhost:5000).
+
+## Building and running in production mode
+
+To create an optimised version of the app:
+
+```bash
+npm run build
+```
+
+## Deploy
+
+`npm install -g now`
+`cd public && now deploy --name svelteslides --prod -A ../now.json`

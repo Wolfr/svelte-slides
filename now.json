@@ -1,0 +1,6 @@
+{
+  "name": "Svelte slides",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
