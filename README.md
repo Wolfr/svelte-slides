@@ -1,6 +1,6 @@
-## Svelte presentation
+## Svelte slides
 
-My basic setup for browser based presentation using Svelte.
+A basic setup for browser based presentations using Svelte.
 
 ### Credits
 
